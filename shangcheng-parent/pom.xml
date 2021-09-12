@@ -14,6 +14,9 @@
         <module>shangcheng-coupon</module>
         <module>shangcheng-ware</module>
         <module>shangcheng-product</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>shangcheng-common</module>
     </modules>
 
 
